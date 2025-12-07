@@ -34,10 +34,9 @@ interface Developer {
 
 const ZIPPO: Developer = {
     name: "Youssef Boudouar",
-    nickname: "ZIPPO 🔥",
+    nickname: "ZIPPO",
     role: "Full Stack Developer",
     location: "Morocco 🇲🇦",
-    motto: "Like a Zippo lighter - Reliable, Stylish, Always Ready to Spark! 🔥",
     passion: [
         "Crafting Clean Code",
         "Building Elegant Solutions",
@@ -45,9 +44,6 @@ const ZIPPO: Developer = {
         "Creating Amazing User Experiences"
     ]
 };
-
-// Ignite the flame of innovation! 🔥
-console.log(`${ZIPPO.nickname} is ready to code!`);
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
