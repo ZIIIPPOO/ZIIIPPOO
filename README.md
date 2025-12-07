@@ -1,23 +1,24 @@
 <div align="center">
-  
-# 👨‍💻 Youssef Boudouar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;YouCode+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%9A%80;Code+Craftsman+%E2%9C%A8;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=ZIPPO%20🔥&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+# 🔥 Welcome to ZIPPO's Dev Space 🔥
 
-### 🚀 Passionate about building modern, scalable web applications
-### 🎯 Turning ideas into reality through clean code
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=800&lines=Youssef+Boudouar+%7C+ZIPPO;Full+Stack+Developer+%F0%9F%92%BB;Igniting+Ideas+into+Code+%F0%9F%94%A5;YouCode+Student+%F0%9F%8E%93;Building+Amazing+Web+Apps+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+### 🎯 Lighting Up the Web, One Line of Code at a Time
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-boudouar-b68520396/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="mailto:youssefboudouar771@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://github.com/ZIIIPPOO">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
@@ -25,165 +26,305 @@
 
 </div>
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="40"/> About ZIPPO
 ```typescript
-const youssef = {
-    pronouns: "He" | "Him",
-    location: "Morocco 🇲🇦",
-    education: "YouCode - Full Stack Development",
-    currentFocus: ["Web Development", "Problem Solving", "Clean Architecture"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    lifePhilosophy: "Code is like humor. When you have to explain it, it's bad.",
-    askMeAbout: ["Web Dev", "Tech", "PHP", "JavaScript", "UI/UX"],
-    technologies: {
-        frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "Bootstrap"],
-        backend: ["PHP", "MySQL"],
-        tools: ["Git", "GitHub", "Figma", "VS Code", "Trello", "Jira"],
-        learning: ["React", "Node.js", "Laravel"]
-    }
-};
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
-
-<div align="center">
-
-### 💻 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZIIIPPOO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZIIIPPOO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZIIIPPOO&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZIIIPPOO&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZIIIPPOO&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ZIIIPPOO/WorkSphere">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZIIIPPOO&repo=WorkSphere&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/ZIIIPPOO/Eventify">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZIIIPPOO&repo=Eventify&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/ZIIIPPOO/Ticketly">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZIIIPPOO&repo=Ticketly&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/ZIIIPPOO/Ethos-Untamed">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZIIIPPOO&repo=Ethos-Untamed&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 💼 What I'm Up To
-```javascript
-class CurrentStatus {
-    constructor() {
-        this.learning = ["Advanced PHP", "Laravel", "React"];
-        this.working_on = ["Building awesome web apps", "Improving problem-solving skills"];
-        this.looking_for = ["Internship opportunities", "Collaboration on open source"];
-        this.goal_2025 = "Master full-stack development and contribute to impactful projects";
-    }
+interface Developer {
+    name: string;
+    nickname: string;
+    role: string;
+    location: string;
+    motto: string;
+    passion: string[];
 }
 
-const me = new CurrentStatus();
-console.log(me.goal_2025); // "Master full-stack development and contribute to impactful projects"
+const ZIPPO: Developer = {
+    name: "Youssef Boudouar",
+    nickname: "ZIPPO 🔥",
+    role: "Full Stack Developer",
+    location: "Morocco 🇲🇦",
+    motto: "Like a Zippo lighter - Reliable, Stylish, Always Ready to Spark! 🔥",
+    passion: [
+        "Crafting Clean Code",
+        "Building Elegant Solutions",
+        "Solving Complex Problems",
+        "Creating Amazing User Experiences"
+    ]
+};
+
+// Ignite the flame of innovation! 🔥
+console.log(`${ZIPPO.nickname} is ready to code!`);
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40"/> What Fuels ZIPPO
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎓 Education
+**YouCode - Full Stack Development**
+
+Building a strong foundation in modern web technologies and software engineering principles.
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 Current Focus
+**Web Development Mastery**
+
+Specializing in creating responsive, user-friendly, and scalable web applications.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 💡 Philosophy
+**"Code Like a Zippo"**
+
+Reliable • Consistent • Always Ready • Built to Last
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ Fun Fact
+**Debugging Expert**
+
+I can fix bugs faster than a Zippo lights up! 🔥
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="40"/> ZIPPO's Tech Arsenal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZIIIPPOO/ZIIIPPOO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎨 Frontend Flame
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" />
+
+**HTML5 • CSS3 • JavaScript**  
+**TailwindCSS • Bootstrap**
+
+Crafting beautiful, responsive interfaces that spark joy
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Backend Blaze
+<img src="https://skillicons.dev/icons?i=php,mysql,c&theme=dark" />
+
+**PHP • MySQL • C**
+
+Building robust server-side solutions with reliability
+
+</td>
+<td align="center" width="34%">
+
+### 🛠️ Tools & Fire Starters
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel&theme=dark" />
+
+**Git • GitHub • Figma**  
+**VS Code • Vercel**  
+**Trello • Jira**
+
+The tools that keep the fire burning
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 💬 Random Dev Quote
+## 📊 ZIPPO's Flame Statistics
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZIIIPPOO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4B4B&icon_color=FF4B4B&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZIIIPPOO&theme=radical&hide_border=true&background=0D1117&stroke=FF4B4B&ring=FF4B4B&fire=FF8C00&currStreakLabel=FF4B4B" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZIIIPPOO&bg_color=0D1117&color=FF4B4B&line=FF8C00&point=FFFFFF&area=true&hide_border=true&title_color=FF4B4B" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 📫 Let's Connect!
+## 🏆 Achievement Showcase
 
 <div align="center">
 
-### 💡 Open to opportunities, collaborations, and interesting conversations!
+<img src="https://github-profile-trophy.vercel.app/?username=ZIIIPPOO&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" width="100%"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/youssef-boudouar-b68520396/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:youssefboudouar771@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ZIIIPPOO">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40"/> Projects Ignited by ZIPPO
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 🏢 WorkSphere
+[![WorkSphere](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZIIIPPOO&repo=WorkSphere&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4B4B)](https://github.com/ZIIIPPOO/WorkSphere)
+
+**Workspace Management Platform**  
+A comprehensive solution for team collaboration and project organization with modern web technologies.
+
+🔥 **Status:** Blazing  
+⚡ **Tech:** HTML, CSS, JS, PHP
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 🎉 Eventify
+[![Eventify](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZIIIPPOO&repo=Eventify&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4B4B)](https://github.com/ZIIIPPOO/Eventify)
+
+**Event Management System**  
+Simplifying event creation, organization, and management with registration, scheduling, and notifications.
+
+🔥 **Status:** Hot  
+⚡ **Tech:** PHP, MySQL, Bootstrap
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 🎫 Ticketly
+[![Ticketly](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZIIIPPOO&repo=Ticketly&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4B4B)](https://github.com/ZIIIPPOO/Ticketly)
+
+**Ticket Booking Platform**  
+Complete ticket management with sales, seat selection, and booking confirmation features.
+
+🔥 **Status:** On Fire  
+⚡ **Tech:** HTML, CSS, JavaScript
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 🎮 Ethos Untamed
+[![Ethos Untamed](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZIIIPPOO&repo=Ethos-Untamed&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4B4B)](https://github.com/ZIIIPPOO/Ethos-Untamed)
+
+**Interactive Web Experience**  
+Showcasing creative design and engaging user experience with attention to modern UI practices.
+
+🔥 **Status:** Burning Bright  
+⚡ **Tech:** HTML, CSS, JavaScript
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🐍 Contribution Flame Trail
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZIIIPPOO/ZIIIPPOO/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 💭 Words of Code Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Like%20a%20Zippo%20lighter,%20great%20code%20is%20reliable,%20elegant,%20and%20always%20ready%20when%20you%20need%20it.&author=ZIPPO" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🔥 Currently Burning Through
+
+<div align="center">
+```javascript
+const zippo = {
+    currentlyLearning: ["Advanced PHP 🐘", "Laravel 🔺", "React ⚛️"],
+    workingOn: ["Building scalable web applications", "Mastering design patterns"],
+    lookingFor: ["Internship opportunities", "Exciting collaborations", "Open source contributions"],
+    goal2025: "Become a full-stack master and contribute to impactful tech solutions 🎯",
+    
+    sparkIdea: function() {
+        return "💡 Every great app starts with a single spark of inspiration!";
+    }
+};
+
+// Light up the coding world! 🔥
+console.log(zippo.sparkIdea());
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 📬 Let's Light Up Something Together!
+
+<div align="center">
+
+### 🔥 Ready to collaborate, innovate, and create amazing things! 🔥
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/youssef-boudouar-b68520396/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="35"/>
+</a>
+</td>
+<td align="center">
+<a href="mailto:youssefboudouar771@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="35"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/ZIIIPPOO">
+<img src="https://img.shields.io/badge/GitHub-Follow_Journey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="35"/>
+</a>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=twinkling"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ZIIIPPOO&label=Profile%20Ignitions&color=ff4b4b&style=for-the-badge" alt="Profile views" />
+
+### ⭐ If my code sparked your interest, light up a star on my repos! ⭐
+
+**Remember: Like a Zippo, I'm built to last and always ready to ignite! 🔥**
 
 </div>
