@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=ZIPPO%20🔥&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
-
-# 🔥 Welcome to ZIPPO's Dev Space 🔥
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=800&lines=Youssef+Boudouar+%7C+ZIPPO;Full+Stack+Developer+%F0%9F%92%BB;Igniting+Ideas+into+Code+%F0%9F%94%A5;YouCode+Student+%F0%9F%8E%93;Building+Amazing+Web+Apps+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
